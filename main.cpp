@@ -2,7 +2,6 @@
 #include "window.h"
 #include "functions.h"
 #include "point.h"
-#include "bricks.h"
 #include <cmath>
 
 int pointsArraySize = 10000;
