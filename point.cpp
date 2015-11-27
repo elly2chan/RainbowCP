@@ -2,7 +2,6 @@
 #include <cmath>
 #include "functions.h"
 #include "point.h"
-#include "bricks.h"
 
 Point::Point(float x, float y, float sx, float sy): R(1), G(1), B(1)
 {
